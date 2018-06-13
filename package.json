@@ -2,5 +2,12 @@
 	"name": "Albert.js",
 	"version": "1.0.1",
 	"description": "A proxy that supports sending custom requests to Apple's Albert server",
-	"main": "Albert.js"
+	"main": "Albert.js",
+	"dependencies": {
+		"express": "any",
+		"path": "any",
+		"fs": "any",
+		"http": "any",
+		"https": "any"
+	}
 }
