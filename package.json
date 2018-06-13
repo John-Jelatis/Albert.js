@@ -4,10 +4,10 @@
 	"description": "A proxy that supports sending custom requests to Apple's Albert server",
 	"main": "Albert.js",
 	"dependencies": {
-		"express": "any",
-		"path": "any",
-		"fs": "any",
-		"http": "any",
-		"https": "any"
+		"express": "latest",
+		"path": "latest",
+		"fs": "latest",
+		"http": "latest",
+		"https": "latest"
 	}
 }
